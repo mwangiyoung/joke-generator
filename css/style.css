@@ -1,0 +1,31 @@
+#joke{
+    background-color: #ece8db; 
+    height: 200px;
+    /* width: 100rem; */
+     font-size: larger;
+     font-weight: bold;
+    
+}
+.color{
+    
+    background-color: #8a6d21;
+    height: 10px;
+}
+#jokes{
+    padding: 20px;
+    background-color: blue;
+    color: aliceblue;
+    border-radius: 2em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.style{
+    display: flex;
+    justify-content: center;
+}
+.button{
+    display: flex;
+    justify-content: center;
+}
+
